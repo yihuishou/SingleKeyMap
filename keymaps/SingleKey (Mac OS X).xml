@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse (Mac OS X)" disable-mnemonics="false" parent="Mac OS X 10.5+">
+<keymap version="1" name="SingleKey (Mac OS X)" disable-mnemonics="false" parent="Mac OS X 10.5+">
   <action id="FileChooser.TogglePathShowing">
     <keyboard-shortcut first-keystroke="meta P"/>
   </action>

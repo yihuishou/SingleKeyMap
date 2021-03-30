@@ -1,17 +1,16 @@
 <idea-plugin>
-  <name>Eclipse Keymap</name>
-  <id>com.intellij.plugins.eclipsekeymap</id>
+  <name>Single Keymap</name>
+  <id>com.intellij.plugins.singlekeymap</id>
   <version>203.5981.152</version>
   <idea-version since-build="203.5981"/>
   <vendor>JetBrains</vendor>
   <category>Keymap</category>
   <description>
-    Eclipse keymap for all IntelliJ-based IDEs.
-    Use this plugin if Eclipse keymap is not pre-installed in your IDE.
+    Single keymap for all IntelliJ-based IDEs.
   </description>
   <depends>com.intellij.modules.lang</depends>
   <extensions defaultExtensionNs="com.intellij">
-    <bundledKeymap file="Eclipse.xml"/>
-    <bundledKeymap file="Eclipse (Mac OS X).xml"/>
+    <bundledKeymap file="SingleKey.xml"/>
+    <bundledKeymap file="SingleKey (Mac OS X).xml"/>
   </extensions>
 </idea-plugin>
