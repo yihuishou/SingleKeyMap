@@ -1,9 +1,9 @@
 <idea-plugin>
   <name>Single Keymap</name>
   <id>com.intellij.plugins.singlekeymap</id>
-  <version>203.5981.152</version>
+  <version>1.0.0</version>
   <idea-version since-build="203.5981"/>
-  <vendor>JetBrains</vendor>
+  <vendor>YiHuiShou</vendor>
   <category>Keymap</category>
   <description>
     Single keymap for all IntelliJ-based IDEs.
